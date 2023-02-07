@@ -18,7 +18,7 @@ After that, to run the ETL-pipeline script run :
 ***
 Here is the database schema in a star schema format , with one fact table *songplays* and the four dimension tables *songs*,*users*,*artist* , and *time*
 
-![Screenshot](star schema.png.png)
+![Screenshot](star schema.png)
 
 
 # ETL
